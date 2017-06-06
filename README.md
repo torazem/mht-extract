@@ -1,6 +1,12 @@
 # MHT Extract
 A simple utility for extracting images from MHT web archives.
 
+## Installation
+
+```
+npm install mht-extract
+```
+
 ## Example Usage
 
 **mhte.extractEncodedFiles(mhtPath, [options])**
