@@ -1,3 +1,7 @@
+_NB: This project is not under active development_
+
+---
+
 # MHT Extract
 A simple utility for extracting images from MHT web archives.
 
